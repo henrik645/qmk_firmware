@@ -1,3 +1,10 @@
+# Henrik
+
+Good links:
+
+* [Setting up QMK with Keychro](https://github.com/ed-henrique/how-to-keychron-qmk)
+* [QMK docs](https://docs.qmk.fm/tap_hold)
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)

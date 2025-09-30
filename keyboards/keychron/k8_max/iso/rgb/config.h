@@ -52,4 +52,5 @@
 #    define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 #endif
 
+#define HOLD_ON_OTHER_KEY_PRESS
 
